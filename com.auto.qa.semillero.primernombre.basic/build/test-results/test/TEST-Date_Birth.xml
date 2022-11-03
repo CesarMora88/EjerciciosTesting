@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Date_Birth" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-29T02:11:15" hostname="DESKTOP-2T5ML3V" time="0.069">
+  <properties/>
+  <testcase name="DiaNacimiento()" classname="Date_Birth" time="0.069"/>
+  <system-out><![CDATA[La fecha de nacimiento mia es: 
+04/04/1988
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
